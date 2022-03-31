@@ -10,7 +10,7 @@
 9. Paste the URL into the New item box within AGOL and select the type (autopopulates as ArcGIS Server web service, correct!) > Next.
 10. Add a title, tags, and summary for the content being imported > Save.
 
-Keep in mind that to continue to access this map image layer, the instance must be running and the IP must be updated on DuckDNS before attempting to open the hosted content.
+Keep in mind that to continue to access this map image layer, the EC2 server instance must be running and the IP must be updated on DuckDNS before attempting to open the hosted content.
 
 11. On AWS EC2 site, select user instance > Instance state > Stop instance.
 12. Log out of ArcGIS Online, DuckDNS, and AWS. Close all browsers.
