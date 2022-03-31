@@ -29,4 +29,5 @@ I was not able to get my Luna map to work, I must be doing something wrong in th
 15. Commit changes and map layer will be displayed on top of Mapbox base layer.
 
 ## Demo 2: GeoJSON
-1. 
+1. Copied code structure from mapboxdemo.html to new file: mapboxgeojson.html.
+2. stopped at 2:20am due to code issues.
