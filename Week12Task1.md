@@ -6,4 +6,4 @@
 
 ## Create a project within KoBo Toolbox
 1. On the main project page, click NEW > Build from scratch. Insert project name; optionally fill in description, sector and country.
-2. 
+2. Stopped work to complete other assignments after 45 minutes.
