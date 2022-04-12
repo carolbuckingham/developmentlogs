@@ -21,7 +21,8 @@
 - choose a level of severity (4 options)
 6. We wouldn't need the trail name question so I've removed it, and I've changed the MILE to KILOMETER via the Edit panel along the side: when a question is clicked it is easily editable in the right-hand panel.
 7. For our website I will need to go into detail about the options available for each question, I need to set aside some time to write those out and perhaps think about the other question types that could be used. BUT we're not using Esri products so it would be better to more fully explore this in KoBoToolbox.
-8. After making all edits, click Save on the lower right portion of the site. Then click Publish to be able to access the form for testing.
+
+***After making all edits, click Save on the lower right portion of the site. Then click Publish to be able to access the form for testing.***
 
 ### Blank survey options: (after completing steps 1 and 2 from above)
 3. Click get started under blank survey.
