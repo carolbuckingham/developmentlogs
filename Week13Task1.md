@@ -45,6 +45,7 @@
     - existing and potential campsites
 - description (single line)
 - other comments (multiline)
+7. In the Appearance tab, you can change the colours and background imagery using Esri provided themes or creating your own. I chose the dark grey-brown theme and edited it to have a green background since we're giving off nature vibes!
 
 #### QUESTION FORMATTING
 For each of the questions, start in the add tab:
@@ -57,8 +58,11 @@ For each of the questions, start in the add tab:
 7. Plant type RULE QUESTION: Select "Multiline text". In the edit tab, give it an appropriate label and hint/description. THEN, go back to the POI question, select it and in the right corner of the highlighted question area, click the arrow symbol ("Set rule"). Set IF 'interesting or unique plant species', SHOW 'do you know what kind of plant it is?'. Click OK.
 8. Other comments: Select "Multiline text". In the edit tab, give it an appropriate label and hint/description.
 
-After making all edits, click Save on the lower right portion of the site. Then click Publish to be able to access the form for testing.
+***After making all edits, click Save on the lower right portion of the site. Then click Publish to be able to access the form for testing.***
 
 ## Embedding a Survey123 form into a website
 1. In the Collaborate tab, navigate to "Who can submit to this survey?" - in order to be able to embed the survey it MUST be accessible to everyone. Checking that box and then saving will provide access to a link: Embed in website.
 2. Click on the link and a side bar pulls up on the right with the embed code created for you! All that's left to do is insert it into your website. You can check different options to change the style of your survey, but doing so means you will need to update your embedded code section after checking or unchecking boxes.
+
+## Exporting an XLS form from Survey123
+1. In the main Content screen, navigate to the template created form: "Dumoine River Tote Road Trail Hazards and Maintenance Issues - template"
