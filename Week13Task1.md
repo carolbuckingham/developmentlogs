@@ -66,4 +66,7 @@ For each of the questions, start in the add tab:
 2. Click on the link and a side bar pulls up on the right with the embed code created for you! All that's left to do is insert it into your website. You can check different options to change the style of your survey, but doing so means you will need to update your embedded code section after checking or unchecking boxes.
 
 ## Exporting an XLS form from Survey123
-1. In the main Content screen, navigate to the template created form: "Dumoine River Tote Road Trail Hazards and Maintenance Issues - template"
+1. On a computer, open ArcGIS Survey123 Connect and sign in with the appropriate credentials. This will update your form library.
+2. Download the Dumoine trail maintenance form. Once the download is complete, click the file to open it in the app.
+3. Select XLSForm on the top left and this will open the XLS on your computer. Save with an appropriate file name in the GEOM99 Final Project folder.
+4. Close both the xlsx file and the survey. Close the Survey123 Connect App and log out of all services before leaving workspace.
