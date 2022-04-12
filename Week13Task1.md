@@ -24,9 +24,9 @@
 8. After making all edits, click Save on the lower right portion of the site. Then click Publish to be able to access the form for testing.
 
 ### Blank survey options: (after completing steps 1 and 2 from above)
-3. Click get started under blank survey
+3. Click get started under blank survey.
 4. For this one I will be maing a basic point of interest form, since the trail maintenance was able to be done using a template.
-5. Click on the survery title section and give the survey an appropriate title. I also change the alignment to be centered.
+5. Click on the survey title section within the form and give the survey an appropriate title and description. I changed the alignment on both items to be centered. Also give the form a name, tags, and summary for within your content library.
 6. Here are the questions I will need to format:
 - observation date/time
 - location
@@ -56,6 +56,8 @@ For each of the questions, start in the add tab:
 6. Description: Select "Singleline text". In the edit tab, give it an appropriate label and hint/description.
 7. Plant type RULE QUESTION: Select "Multiline text". In the edit tab, give it an appropriate label and hint/description. THEN, go back to the POI question, select it and in the right corner of the highlighted question area, click the arrow symbol ("Set rule"). Set IF 'interesting or unique plant species', SHOW 'do you know what kind of plant it is?'. Click OK.
 8. Other comments: Select "Multiline text". In the edit tab, give it an appropriate label and hint/description.
+
+After making all edits, click Save on the lower right portion of the site. Then click Publish to be able to access the form for testing.
 
 ## Embedding a Survey123 form into a website
 1. In the Collaborate tab, navigate to "Who can submit to this survey?" - in order to be able to embed the survey it MUST be accessible to everyone. Checking that box and then saving will provide access to a link: Embed in website.
