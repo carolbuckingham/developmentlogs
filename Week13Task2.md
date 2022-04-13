@@ -19,11 +19,27 @@
 12. Repeat steps 7 and 8 for the new form. On the form page, deploy the form... FORM SUCCESSFULLY DEPLOYED!
 13. The picture question did not properly translate, but all other questions did. To have the same functionality of having 3 photos able to be submitted, add 2 additional questions with conditions for the previous photos to have been submitted.
 
-***After making all edits, click Save on the upper right portion of the site. Then click Redploy to be able to access the form for testing. Click OK to overwrite the pervious version.***
+***After making all edits, click Save on the upper right portion of the site and close the Form Builder. Then click Redeploy to be able to access the form for testing. Click OK to overwrite the pervious version.***
 
 ### Blank survey option: (after completing steps 1 and 2 from above)
-3. 
+3. Choose "Build from scratch". Give the project an appropriate title, description, sector, and country.
+4. Using the questions chosen for the Survey123 form (https://github.com/carolbuckingham/developmentlogs/blob/main/Week13Task1.md), format the questions using the KoBoToolbox options. See the full methodology below.
 
 #### QUESTION FORMATTING
+For each of the requirements below, click the plus sign icon to add a new question:
+1. Observation date and time: Provide the name for question and select ADD QUESTION. Select "Date and time". Go into Settings (gear icon). Select 'yes' for Mandatory Response to have each observation associated with an observation time, and set the default response to "now()" to have it autopopulate.
+2. Location: Provide the name for question and select ADD QUESTION. Select "Point". Add appropriate question hint.
+3. Kilometer marker: Provide the name for question and select ADD QUESTION. Select "Text". Add appropriate question hint.
+4. Photos/file upload: Provide the name for question and select ADD QUESTION. Select "Photo". Add appropriate question hint.
+5. I've stuck with the 3 photo maximum for the purposes of this demo. For the 2 additional photo uploads (see step 13 of XLSForm template): Provide a name for each and select ADD QUESTION. Select "Photo". Add appropriate question hint. 
+- FOR 2ND PHOTO: In the Settings panel, select the 'Skip Logic' tab and add a condition. Select 'Photo' and 'was answered' will autopopulate.
+- FOR 3RD PHOTO: In the Settings panel, select the 'Skip Logic' tab and add a condition. Select 'Photo' and 'was answered' will autopopulate. Add another condition: select '2nd Photo' and 'was answered' will autopopulate. Make sure that 'Question should match all of these criteria' is selected.
+6. Type of POI: Provide the name for question and select ADD QUESTION. Select "Select one". Add appropriate question hint. Fill in all 13 options (including Other). Go into Settings (gear icon) and set Mandatory Response to 'yes'.
+7. Other DEPENDANT QUESTION: Provide a name for the question and select ADD QUESTION. Select "Text". Reference having answered Other in the previous question about POI type. In the Settings panel, select the 'Skip Logic' tab and add a condition. Select 'What type of point of interest is this?' = 'Other'.
+8. Description: Provide the name for question and select ADD QUESTION. Select "Text". Add appropriate question hint.
+9. Plant type RULE QUESTION: Provide the name for question and select ADD QUESTION. Select "Text". Add appropriate question hint. In the Settings panel on 'Question Options', change the Appearance to "multiline". Select the 'Skip Logic' tab and add a condition. Select 'What type of point of interest is this?' = 'Interesting or unique plant species'.
+10. Other comments: Provide the name for question and select ADD QUESTION. Select "Text". Add appropriate question hint. In the Settings panel on 'Question Options', change the Appearance to "multiline".
+
+***After making all edits, click Save on the upper right portion of the site and close the Form Builder. Then click Deploy to be able to access the form for testing.***
 
 ## Embedding a KoBoToolbox form into a website
