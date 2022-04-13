@@ -12,6 +12,7 @@
 8. In the form version page, click the pencil icon ("Edit in Form Builder" on hover).
 9. The first four sections are not necessary as these are only to say that the survey was cxreated in Survey123. In each of the remaining questions, remove the additional HTML for clarity. Once this is completed, click the eye icon to preview the updated form. I'm satisfied with the results, so I closed the preview. Click "SAVE*" (the star means that there are new unsaved changes), and then close the survey once saving is complete.
 10. On the form page, deploy the form. JUST KIDDING! There's an error!!
+
 ![alt text](https://github.com/carolbuckingham/developmentlogs/blob/main/images/07%20unable%20to%20deploy.png?raw=true)
 
 ### Blank survey option: (after completing steps ?? from above)
