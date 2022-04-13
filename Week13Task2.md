@@ -43,3 +43,4 @@ For each of the requirements below, click the plus sign icon to add a new questi
 ***After making all edits, click Save on the upper right portion of the site and close the Form Builder. Then click Deploy to be able to access the form for testing.***
 
 ## Embedding a KoBoToolbox form into a website
+1. In the Form tab of the deployed form under 'Collect data', change the dropdown to "Embeddable web form code" and a code snippet will appear. Use this directly in your site to reference the form.
