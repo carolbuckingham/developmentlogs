@@ -15,4 +15,4 @@
 10. I then created a folder for the partner pages of the Friends of the Dumoine and made 2 pages within it: wlfn.html, zec.html
 11. I then created a folder for the mapping page and created an html file within it to house the Mapbox map: webmap.html
 
-*** The client has requested pages for the following: who are the Friends, logistics, history of the trail, information about the ZEC, and information about Wolf Lake First Nation. We are including a separate landing page and web map site. ***
+***The client has requested pages for the following: who are the Friends, logistics, history of the trail, information about the ZEC, and information about Wolf Lake First Nation. We are including a separate landing page and web map site.***
