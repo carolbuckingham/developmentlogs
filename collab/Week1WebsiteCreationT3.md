@@ -14,10 +14,12 @@ After creating the above files I then removed the placeholder markdown files wit
 *I started with the head element of the pages since this will be the simplest to complete and should be done first to clarify the subject matter of each webpage.*
 3. Within each page, add in html, head, and body elements. Make sure to specify the language of the page within the html starting tag (for our site, it will be English on one, French on another). Your starting code should be as follows:
 
-> <!DOCTYPE html>
-> <html lang="en">
-> <head></head>
-> <body></body>
-> </html>
+    <!DOCTYPE html>
+    <html lang="en">
+      <head>
+      </head>
+      <body>
+      </body>
+    </html>
 
-4. 
+4. Hi
