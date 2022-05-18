@@ -23,13 +23,33 @@ After creating the above files I then removed the placeholder markdown files wit
           </body>
         </html>
 
-4. {head element stuff}
+4. We're starting these web pages with a good basis in terms of the metadata information available on the website, including the title, authors, description, keywords, and character set. I'll use the home.html file as an example for filling out this information.
+5. Between the head tags, the title section for the home page will be 'Friends of the Dumoine River' and is created as follows:
 
-6. Next, I added the link to the CSS stylesheet within the head element of each page. That code can be seen below with a relative file path being used:
+        <title>Friends of the Dumoine River</title>
+        
+6. Next, the character set for all pages will be 'UTF-8' and is created as follows:
+
+        <meta charset="UTF-8">
+
+7. The viewport settings for all pages are set with the following code:
+
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        
+8. Our group are the authors for all pages on the site. Our names will be included in the head element as follows:
+
+        <meta name="author" content="Allison Talsma, Carol Buckingham, Kira-Marie Lazda">
+        
+9. Finally, the description and keywords for the home page need to be accurate and brief, and they may change depending on our assessment and the needs of our client:
+
+        <meta name="description" content="Friends of the Dumoine River website homepage - English">
+        <meta name="keywords" content="Not-for-profit organization, Outdoors, Recreation, History">
+
+10. After finishing the metadata information, I added the link to the CSS stylesheet within the head element of each page. That code can be seen below with a relative file path being used:
 
         <link rel="stylesheet" href="CSS\main-1.0.0.css">
 
-6. Within the body element of each page I have added comments to indicate what each page will be used for along with my personal thoughts or things to clarify with our client and liaison.
+11. Within the body element of each page I have added comments to indicate what each page will be used for along with my personal thoughts or things to clarify with our client and liaison.
 
 ## Repository organization
 *To provide a divide for the English and French versions of the pages, we plan to have separate folders for the languages, and then you will be able to switch back and forth between them with a button within the navbar.*
