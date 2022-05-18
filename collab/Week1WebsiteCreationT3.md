@@ -35,4 +35,23 @@ After creating the above files I then removed the placeholder markdown files wit
 *To provide a divide for the English and French versions of the pages, we plan to have separate folders for the languages, and then you will be able to switch back and forth between them with a button within the navbar.*
 
 1. Within VSC with the repository open, select the repository in the left-hand folders pane.
-2. Create 2 new folders: 'english' and 'francias'
+2. Create 2 new folders: 'english' and 'français'
+3. Move all English language pages and folders to the English directory.
+4. Create a copy of the home.html file within the French directory and rename it - accueil.html
+5. Update html and head elements to reflect language change:
+        
+        <!DOCTYPE html>
+        <html lang="fr">
+        <head>
+          <title>Ami - es de la Rivière du Moine</title>
+          <meta charset="UTF-8">
+          <meta name="viewport" content="width=device-width, initial-scale=1">
+          <meta name="author" content="Allison Talsma, Carol Buckingham, Kira-Marie Lazda">
+          <meta name="description" content="Ami - es de la Rivière du Moine page d'accueil - Français">
+          <!-- the keywords need to be translated once we decide on the official ones -->
+          <meta name="keywords" content="Not-for-profit organization, Outdoors, Recreation, History">
+          <link rel="stylesheet" href="CSS\main-1.0.0.css">
+        </head>
+        </html>
+
+***The remaining French pages will not be created until the English content has been delivered and those pages have been appropriately formatted.***
