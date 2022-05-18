@@ -13,7 +13,7 @@ After creating the above files I then removed the placeholder markdown files wit
 ## HTML file skeleton
 *I started with the head element of the pages since this will be the simplest to complete and should be done first to clarify the subject matter of each webpage.*
 
-3. Within each page, add in html, head, and body elements. Make sure to specify the language of the page within the html starting tag (for our site, it will be English on one, French on another). Your starting code should be as follows:
+3. Within each page, I added in html, head, and body elements. Make sure to specify the language of the page within the html starting tag (for our site, it will be English on one, French on another). The starting code is as follows:
 
         <!DOCTYPE html>
         <html lang="en">
@@ -23,4 +23,10 @@ After creating the above files I then removed the placeholder markdown files wit
           </body>
         </html>
 
-4. Hi
+4. {head element stuff}
+
+6. Next, I added the link to the CSS stylesheet within the head element of each page. That code can be seen below with a relative file path being used:
+
+        <link rel="stylesheet" href="CSS\main-1.0.0.css">
+
+6. Within the body element of each page I have added comments to indicate what each page will be used for along with my personal thoughts or things to clarify with our client and liaison.
