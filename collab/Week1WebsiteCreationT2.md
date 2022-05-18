@@ -10,6 +10,7 @@ N.B. if you've already created a file on your computer, you can add it directly 
 5. Ensure that the file is committing directly to the main branch! We do not have other branches in our repository.
 6. Click the commit button to save your changes.
 
+## Accessing repository in Visual Studio Code
 ### Connecting GitHub to Visual Studio Code
 This can be done at any time prior to working on the repository with Visual Studio Code.
 1. Ensure that Visual Studio Code is NOT running.
@@ -30,11 +31,21 @@ This can be done at any time prior to working on the repository with Visual Stud
 
 6. Continue to the next section to contine connecting to Visual Studio Code.
 
-## Cloning repository to Visual Studio Code.
+### Cloning repository to Visual Studio Code
 This section assumes that Visual Studio Code is installed along with the Git toolset (see https://marketplace.visualstudio.com/items?itemName=donjayamanne.git-extension-pack). It also assumes that the user has already linked their GitHub account to VSC.
-1. Open Visual Studio Code.
-2. see guide from last semester for how to add a GitHub account to VSC!
+1. Open Visual Studio Code and ensure any current projects and files are closed out.
+2. Select "View" from the toolbar and choose "Command Palette". Choose "Git: Clone" from the options provided.
+3. If you have not logged into GitHub via VSC before this, it may come up with a pop-up window asking to sign in to GitHub. Follow these steps:
+    - Allow GitHub extension to sign in using GitHub.
+    - After it redirects to your browser, click "Continue" and log in with your user name and password.
+    - Authorize GitHub for VSCode. It may ask for your password here if you had it as a saved log in within your browser.
+    - Your computer should redirect automatically to VSC after completing the above steps.
+4. In VSC there will be a pop-up - make sure to select the option to remember your selection, or else you will have to log in every time you want to connect to GitHub hosted repositories/files. Click Ok to save your choice.
+5. From here, any repositories that you have access to will show up in the drop down menu. Choose the correct one and choose an appropriate place to save the files locally.
 
+*You may also need to install the GitHub push/pull extension to VSC. Click the Extensions button (four squares) on the left hand side of the software and search GitHub - it should be called 'GitHub Pull Requests and Issues'.*
+
+*After making a change and setting it up within the program to push to the server, VSC may ask to Authorize 'Git Credential Manager'. Ensure to authorize this to continue editing the files locally.*
 ## Creation and organization of supplemental files
 1. within visual studio code..
 
