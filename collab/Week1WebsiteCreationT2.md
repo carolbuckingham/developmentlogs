@@ -15,12 +15,13 @@ This can be done at any time prior to working on the repository with Visual Stud
 1. Ensure that Visual Studio Code is NOT running.
 2. Go here and download GIT → https://git-scm.com/download/win
 3. Start the installer and pick the following options:
-  a. Default editor – it wants to use Git something-or-other. There will be a dropdown, change it to Visual Studio Code.
-  b. Default directory – there will be two options – the default is “Master”, we need to select the 2nd option and enter “main” into the input field. This will make the default new branches line up with GitHub.
-  c. Use the defaults for everything else.
+    - Default editor – it wants to use Git something-or-other. There will be a dropdown, change it to Visual Studio Code.
+    - Default directory – there will be two options – the default is “Master”, we need to select the 2nd option and enter “main” into the input field. This will make the default new branches line up with GitHub.
+    - Use the defaults for everything else.
 4. From the Start menu, launch Git Bash. Type the following with the name and email sections filled out with your information and hit enter after each line:
 
 > git config –global user.name "Your Name"
+
 > git config –global user.email "your@email.address"
 
 5. To confirm that this worked, type the code below. If the last two lines of the list generate your input, go ahead and close Git Bash.
