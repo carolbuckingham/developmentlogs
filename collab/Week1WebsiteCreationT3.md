@@ -30,3 +30,9 @@ After creating the above files I then removed the placeholder markdown files wit
         <link rel="stylesheet" href="CSS\main-1.0.0.css">
 
 6. Within the body element of each page I have added comments to indicate what each page will be used for along with my personal thoughts or things to clarify with our client and liaison.
+
+## Repository organization
+*To provide a divide for the English and French versions of the pages, we plan to have separate folders for the languages, and then you will be able to switch back and forth between them with a button within the navbar.*
+
+1. Within VSC with the repository open, select the repository in the left-hand folders pane.
+2. Create 2 new folders: 'english' and 'francias'
