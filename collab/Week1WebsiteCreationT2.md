@@ -46,9 +46,3 @@ This section assumes that Visual Studio Code is installed along with the Git too
 *You may also need to install the GitHub push/pull extension to VSC. Click the Extensions button (four squares) on the left hand side of the software and search GitHub - it should be called 'GitHub Pull Requests and Issues'.*
 
 *After making a change and setting it up within the program to push to the server, VSC may ask to Authorize 'Git Credential Manager'. Ensure to authorize this to continue editing the files locally.*
-## Creation and organization of supplemental files
-1. within visual studio code..
-
-## HTML file skeleton
-***I started with the head element of the pages since this will be the simplest to complete and should be done first to clarify the subject matter of each webpage.***
-1. add in html, head, and body elements
