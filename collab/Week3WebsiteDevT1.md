@@ -9,5 +9,3 @@ After discussion with our client, we will be changing the current layout to bett
 4. Removed all 'fodr' and 'dr' file prefixes.
 5. Changed the title of the home page and index page to reflect the true vision for the website.
 6. All changes pushed to GitHub via VSC.
-
-## Researching website design and visualization
