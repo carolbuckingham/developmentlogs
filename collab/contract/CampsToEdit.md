@@ -1,5 +1,5 @@
 French map:
-- [ ] 1.PONENS
+- [x] 1.PONENS
 - [x] 2.FILDEGRAND
 - [x] 3.C FODA
 - [x] 4.BERTRANDS
